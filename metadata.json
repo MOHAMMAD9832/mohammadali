@@ -1,0 +1,6 @@
+{
+  "name": "Mohammad Cyber Cafe",
+  "description": "Digital service center app for Mohammad Online Cyber Cafe (মোহাম্মদ অনলাইন সাইবার ক্যাফে). Online application and tracking for PAN, Voter, Vehicle, Ration, PF and Certificate services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
